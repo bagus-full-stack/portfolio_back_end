@@ -1,0 +1,8 @@
+GET http://127.0.0.1:5000/
+
+
+
+#https://github.com/cornflourblue/node-role-based-authorization-api/blob/master/_helpers/authorize.js
+
+
+#https://www.youtube.com/watch?v=fUWkVxCv4IQ
